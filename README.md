@@ -6,5 +6,5 @@ Simple and beginner-friendly
 Uses Python functions
 Handles invalid inputs from user
 
-Technologies Used
+#Technologies Used
 Python 3
